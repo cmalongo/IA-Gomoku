@@ -3,6 +3,7 @@ TAILLE_PLATEAU = 15
 VIDE = 0
 NOIR = 1
 BLANC = 2
+#bababababaababababah
 
 # Indicateur pour gérer le premier coup noir
 premier_coup_noir = True  # Variable globale pour restreindre le premier coup noir
